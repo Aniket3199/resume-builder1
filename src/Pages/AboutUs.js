@@ -79,7 +79,7 @@ export default function ButtonMUI() {
             Kindly Share in your Friends And Colleagues.
           </Typography>
           <Box className="icons">
-            <Link to="https://www.instagram.com">
+            <Link to="https://www.instagram.com/aniket_31t">
               <Instagram
                 sx={{ fontSize: "40px", paddingLeft: "15px" }}
                 color="error"
@@ -93,7 +93,7 @@ export default function ButtonMUI() {
               />
             </Link>
 
-            <Link to="www.linkedin.com/in/aniket-tembhurne-2539a3192">
+            <Link to="https://www.linkedin.com/in/aniket-tembhurne-2539a3192/">
               <LinkedInIcon
                 sx={{ fontSize: "40px", paddingLeft: "15px" }}
                 color="primary"
