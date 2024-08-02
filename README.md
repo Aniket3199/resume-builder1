@@ -117,10 +117,7 @@ Folder PATH listing folder src:....
 
 
 # $ Live link $
-https://resume-builder-react-app.vercel.app/
 
-# $ Walkthrough video link $
-https://youtu.be/YUUyH5yGVv8
 
 
 
